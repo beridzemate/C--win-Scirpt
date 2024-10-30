@@ -81,3 +81,4 @@ WPFLocalizationExtension (MS-PL) https://github.com/XAMLMarkupExtensions/WPFLoca
 ZXing.Net (Apache 2.0)           https://github.com/micjahn/ZXing.Net
 ```
 # win_scirpt
+# win_scirpt
